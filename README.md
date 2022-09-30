@@ -1,4 +1,18 @@
-## student-data-challenge
+## Student Data Challenge
+
+# Background
+Give a set of data which contains "student id", "student name","school name","reading score", "math score","school type" and "school budget".
+
+# perform the following task:
+1.Collect the student data into a DataFrame.
+
+2. Prepare a cleaned version of the DataFrame.
+
+3.Summarize key pieces of the data.
+
+4. Drill down into the data to analyze specific subsets.
+
+5.Compare and contrast the data through grouping and aggregation functions.
 
 ## Summerize and finding of the student data challenge
 
